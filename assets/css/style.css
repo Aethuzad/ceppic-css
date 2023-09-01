@@ -9,6 +9,7 @@
 body {
   color: #8993d4;
   background-color: palegoldenrod;
+  font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -48,3 +49,9 @@ a:visited {
 a:hover {
     color: blue;
 }
+
+p:hover {
+    color: black;
+    background-color: white;
+}
+
