@@ -1,0 +1,50 @@
+* {
+    margin:0;
+    padding:0;
+
+}
+
+
+
+body {
+  color: #8993d4;
+  background-color: palegoldenrod;
+}
+
+header {
+    color: seagreen;
+    background-color: lavenderblush;
+}
+
+p {
+    color: red;
+}
+
+h2 {
+    color: aqua;
+}
+
+.titre {
+    color: slateblue;
+}
+
+.titre2 {
+    border-bottom: 1px solid teal;
+}
+
+#paragraphe {
+    border: solid 1px #fff;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: aqua;
+    }
+
+a:hover {
+    color: blue;
+}
